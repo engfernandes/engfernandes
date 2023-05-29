@@ -20,7 +20,17 @@
 ### About Me
 
 <div>
-  During my carrer, i worked mainly system management. Due to this, I creating a great experience in ERPs, CRMs, development, automations, data analysis  and support for internal customers. Now studying Software Engineering at Cruzeiro do Sul and complementing my studies with courses, I'm focusing on increasing my skills in programming, devOps, business agility and management techniques. 
+ I work in the technology sector since the beginning of my career, contributing to projects and improvements in the most diverse areas, always using knowledge in programming, processes and business.
+
+At the moment I work as a Support Analyst in the largest urban micro-mobility company in Latin America, where I work providing technical support for the systems used by the company and developing solutions and automations. In addition to my current experience, I'm studying Software Engineering at Cruzeiro do Sul, with the aim of pursuing a career in development and product.
+
+Experience and knowledge in:
+- Python
+- typescript
+- React
+- NodeJS
+- APIs
+- IoT 
 
   <p>I currently work with Support Analyst at the largest urban micro mobility company in Latin America.</p>
 </div>
