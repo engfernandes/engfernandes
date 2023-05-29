@@ -32,5 +32,5 @@ Experience and knowledge in:
 - APIs
 - IoT 
 
-  <p>I currently work with Support Analyst at the largest urban micro mobility company in Latin America.</p>
+<p>I currently work with Support Analyst at the largest urban micro mobility company in Latin America.</p>
 </div>
