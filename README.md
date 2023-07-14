@@ -25,10 +25,11 @@
 At the moment I work as a Support Analyst in the largest urban micro-mobility company in Latin America, where I work providing technical support for the systems used by the company and developing solutions and automations. In addition to my current experience, I'm studying Software Engineering at Cruzeiro do Sul, with the aim of pursuing a career in development and product.
 
 Experience and knowledge in:
-- Python
-- typescript
-- React
+- ReactJS
+- React Native
+- Typescript
 - NodeJS
+- Python
 - APIs
 - IoT 
 
