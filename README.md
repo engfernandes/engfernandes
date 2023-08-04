@@ -1,8 +1,7 @@
 ### Hi, I'm Gabriel Fernandes 👋
 
-[![MeuSite](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]()
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/engfernandes/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabfernandes6/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gfernandes.jpg/)
 
 ![engfernandes GitHub stats](https://github-readme-stats.vercel.app/api?username=engfernandes&show_icons=true&theme=dracula)
 
@@ -27,11 +26,12 @@ At the moment I work as a Support Analyst in the largest urban micro-mobility co
 Experience and knowledge in:
 - ReactJS
 - React Native
+- NextJS
 - Typescript
 - NodeJS
 - Python
 - APIs
-- IoT 
+- IoT
 
 <p>I currently work with Support Analyst at the largest urban micro mobility company in Latin America.</p>
 </div>
