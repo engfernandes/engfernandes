@@ -22,14 +22,10 @@
 
 ### About Me
 
-<div>
-Full Stack Engineer with over 4 years of experience in high-complexity systems, event-driven architecture, and high availability. My passion is to combine my development, leadership, and creativity skills to build impactful solutions.
 
-Currently, I work as a Full Stack Engineer at Loopt, a startup that revolutionizes port and retro-port logistics. I contribute to the development of high-performance systems that utilize Machine Learning to generate precise recommendations, solving real-world industry problems.
+Software Engineer with over 4 years of experience in highly complex systems, event-driven architecture, and high availability. I am passionate about leveraging my development, leadership, and creative skills to build impactful solutions.
 
-- Technical leadership in the development of innovative, high-complexity projects with robust infrastructure.
-- Specialist in architecture and development of web systems and applications.
-- Extensive experience with agile methodologies (Scrum and Extreme Programming).
+Currently, I work as a Software Engineer at [Karhub](https://github.com/karhub-br), a startup utilizing cutting-edge technology to simplify the online auto parts purchasing process.
 
 <strong>Technical Specialties:</strong>
 - <strong>Frontend:</strong> Next.js, React, Angular
@@ -45,4 +41,3 @@ Currently, I work as a Full Stack Engineer at Loopt, a startup that revolutioniz
 
 <strong>Personal Interests:</strong>
 In my free time, I am a born curious! I enjoy reading, watching movies, studying various subjects, and exploring the world through travel.
-</div>
